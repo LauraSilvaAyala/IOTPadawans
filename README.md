@@ -2,4 +2,4 @@
 
 Entrega1 : CarpetaNodeMcu
 
-Entrega 2: Carpeta - 
+Entrega 2: RetoPad.zip 
