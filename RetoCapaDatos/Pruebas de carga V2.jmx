@@ -22,7 +22,7 @@
           </elementProp>
           <elementProp name="ip_timescale" elementType="Argument">
             <stringProp name="Argument.name">ip_timescale</stringProp>
-            <stringProp name="Argument.value">18.212.188.28</stringProp>
+            <stringProp name="Argument.value">54.85.75.83</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
             <stringProp name="Argument.desc">Dirección IP pública de la máquina EC2 con el servidor de timescale</stringProp>
           </elementProp>
